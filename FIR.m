@@ -1,6 +1,6 @@
 function FIR
 %  Design and Implementation of FIR Filter Package
-% Date: 04/16/2011
+% Date: 04/16/2020
 %  Author: Ahmed Abdelazeem
 % Contacts: ahmed_abdelazeem@outlook.com
 %
